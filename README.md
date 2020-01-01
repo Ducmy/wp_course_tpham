@@ -32,3 +32,4 @@ http://localhost:8080
             password wordpress: mynguyen123
 #### Lập trình themes wordpress 
     -> ./htdocs/wp-content/themes/<Đặt tên theme>/style.css
+# wp_course_tpham
